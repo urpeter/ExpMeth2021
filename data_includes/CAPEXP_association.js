@@ -97,7 +97,7 @@ var items =[
 
 /// Experimental Items
 
-[["C_r" , 1],'Question', {q:' Schminke - Lippenstift '}],
+  [["C_r" , 1],'Question', {q:' Schminke - Lippenstift '}],
 [["C_u" , 1],'Question', {q:' Schminke - Geld '}],
 [["C_r" , 2],'Question', {q:' Sandburg - Wassergraben '}],
 [["C_u" , 2],'Question', {q:' Sandburg - Knetfigur '}],

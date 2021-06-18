@@ -41,7 +41,7 @@ var defaults = [
             ],
         presentAsScale: true,
         leftComment: "nicht plausibel",
-        rightComment: "stark plausibel"}
+        rightComment: "sehr plausibel"}
 ];
 
 

@@ -102,7 +102,7 @@ var items =[
 [["V_r" , 1],'Question', {q:' Annika zerschnitt die Boutique Eine Zeit lang suchte sie nach einer Hose '}],
 [["V_u" , 1],'Question', {q:' Annika verließ die Boutique Eine Zeit lang suchte sie nach einem Taxi '}],
 [["V_u" , 1],'Question', {q:' Annika betrat die Boutique  Eine Zeit lang suchte sie nach einem Taxi '}],
-[["V_u" , 1],'Question', {q:' Annika zerschnitt die Boutique  Eine Zeit lang suchte sie nach einem Taxi '}]
+[["V_u" , 1],'Question', {q:' Annika zerschnitt die Boutique  Eine Zeit lang suchte sie nach einem Taxi '}],
 [["V_r" , 2],'Question', {q:' Jakob betrat die Bäckerei  Sofort kaufte  er ein Brötchen '}],
 [["V_r" , 2],'Question', {q:' Jakob verließ die Bäckerei  Sofort kaufte  er ein Brötchen '}],
 [["V_r" , 2],'Question', {q:' Jakob nähte die Bäckerei  Sofort kaufte  er ein Brötchen '}],

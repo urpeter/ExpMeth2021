@@ -12,7 +12,7 @@ var shuffleSequence = seq(
                           "Instructions02",
                           sepWith("sep",
                                rshuffle(anyOf(
-                                   "A_mcverbAB", "B_mcverbCD", "C_rcverbAC", "D_rcverbBD", "E_rcnounAC", "F_rcnounBD"))),
+                                  "V_r", "V_u"))),
                           "sr",
                           "Outro",
                           "Close"

@@ -432,7 +432,5 @@ var items =[
 [["V_r" , 72c],'Question', {q:' Markus badete die Werkstatt  Höflich sprach er mit einem Mechaniker '}],
 [["V_u" , 72d],'Question', {q:' Markus verließ die Werkstatt  Höflich sprach er mit einem Rechtsanwalt '}],
 [["V_u" , 72e],'Question', {q:' Markus betrat die Werkstatt  Höflich sprach er mit einem Rechtsanwalt '}],
-[["V_u" , 72f],'Question', {q:' Markus badete die Werkstatt  Höflich sprach er mit einem Rechtsanwalt '}],
-
-
+[["V_u" , 72f],'Question', {q:' Markus badete die Werkstatt  Höflich sprach er mit einem Rechtsanwalt '}]
 ];

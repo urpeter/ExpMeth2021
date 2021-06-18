@@ -40,8 +40,8 @@ var defaults = [
                 [7,"7"]
             ],
         presentAsScale: true,
-        leftComment: "nicht assoziiert",
-        rightComment: "stark assoziiert"}
+        leftComment: "nicht plausibel",
+        rightComment: "stark plausibel"}
 ];
 
 
